@@ -12,6 +12,9 @@
 ## 04 : Password Generator 
     Create a tool that generates strong password based on user preference.
 
+## 05 : Currency Converter    
+    Develop a program that converts an amount from one currency to another using real-time exchange rates.    
+
    
 
 
